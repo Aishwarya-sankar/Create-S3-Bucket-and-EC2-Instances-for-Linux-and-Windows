@@ -38,8 +38,8 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : JAYABHARATHI S
-### NAME : 212222100013
+### REG NUMBER : AISHWARYA S
+### NAME : 212222100003
 
 # OUTPUT
 
